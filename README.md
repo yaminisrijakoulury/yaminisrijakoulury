@@ -23,31 +23,16 @@
 
 ## 🛠️ Tech Stack
 
-**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+| Category | Tools |
+|---|---|
+| **Languages** | Python, SQL, R, JavaScript, HTML/CSS |
+| **Data & Visualization** | Power BI, Tableau, Pandas, NumPy, Matplotlib, Seaborn, Excel (Advanced) |
+| **Machine Learning & AI** | scikit-learn, NLP, SHAP (Explainable AI), GenAI, Predictive Modeling |
+| **Cloud & DevOps** | AWS (EC2, App Runner, ECR), Docker, Linux, Git, Agile/Scrum |
+| **Databases** | SQL, CockroachDB |
 
-**Data, Analytics & Visualization**
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-**Machine Learning & AI**
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NLP](https://img.shields.io/badge/-NLP-4B8BBE?style=flat-square)
-![GenAI](https://img.shields.io/badge/-GenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-**Cloud & DevOps**
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
