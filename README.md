@@ -1,99 +1,75 @@
-<div align="center">
+<picture>
+  <img alt="banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:2F80ED&height=180&section=header&text=Yamini%20Srija%20Koulury&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Data%20Engineer%20%26%20Analyst&descAlignY=60&descSize=18" width="100%"/>
+</picture>
 
-# Hi, I'm Yamini Srija Koulury 👋
+<p align="center">
+  <a href="https://www.yaminisrijakoulury.com/"><img src="https://img.shields.io/badge/Portfolio-yaminisrijakoulury.com-6C63FF?style=flat-square" /></a>
+  <a href="https://www.linkedin.com/in/srija06"><img src="https://img.shields.io/badge/LinkedIn-srija06-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:yaminisrija16@gmail.com"><img src="https://img.shields.io/badge/Email-yaminisrija16%40gmail.com-2F80ED?style=flat-square" /></a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Data+Engineer+%26+Analyst;Python+%7C+SQL+%7C+AWS+%7C+Docker;Building+Real-Time+Data+Pipelines+%26+Dashboards)](https://git.io/typing-svg)
+I'm a **Data Science graduate student at Indiana University Bloomington**, currently working as a **Data Engineer & Analyst**, building real-time pipelines, BI dashboards, and agentic AI systems. My work sits at the intersection of data engineering, analytics, and applied ML — turning messy operational data into infrastructure people can actually trust.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.yaminisrijakoulury.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srija06)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaminisrija16@gmail.com)
+<br>
 
-</div>
+## What I've been building
 
----
+**Real-time data infrastructure.** At Heartland Community Network, I replaced three teams' worth of manual reconciliation with a single canonical metric dictionary and automated SQL validation — reporting accuracy is up 30%, and dashboards that used to be reviewed weekly now update live in Power BI.
 
-### 👀 About Me
+**Fault-tolerant pipelines.** At Ikabit, I built a Python UDP ingestion pipeline and containerized ETL layer that holds 100% data integrity while cutting backend retrieval time by 25%.
 
-- 🎓 M.S. in Data Science candidate at **Indiana University Bloomington** (GPA 3.57/4)
-- 💼 Currently a **Data Engineer & Analyst** at Heartland Community Network, building real-time BI infrastructure
-- 🛠️ I ship resilient **real-time data pipelines** and **interactive analytics dashboards** for high-availability systems
-- 🚀 Architected a fault-tolerant ingestion layer with **100% data integrity** across distributed sessions
-- ⚡ Optimized containerized ETL workflows that accelerated backend retrieval by **25%**
-- 🤖 Building agentic AI applications with LLM fallback architectures and vector search
-- 📫 Reach me at **yaminisrija16@gmail.com**
+**Applied ML side projects.** Outside of work, I build things like [CourSelect](https://github.com/yaminisrijakoulury) — an AI academic advising platform with a 4-tier LLM fallback (Gemini → Ollama → Mistral) and sub-3-second semantic search across nearly 9,000 courses — because I like seeing ML architecture decisions hold up under real load.
 
----
+<br>
 
-### 🧰 Tech Stack
+## Where I've worked
 
-**Languages**
+<table>
+<tr><td><b>Data Engineer & Analyst</b></td><td>Heartland Community Network</td><td><i>Jun 2026 – Present</i></td></tr>
+<tr><td><b>Data Engineer Intern</b></td><td>Ikabit Inc.</td><td><i>Jun 2025 – Aug 2025</i></td></tr>
+<tr><td><b>Data Analytics Intern</b></td><td>Emirates Steel Arkan</td><td><i>Mar 2024 – Jul 2024</i></td></tr>
+<tr><td><b>Data Science Research Intern</b></td><td>New York University Abu Dhabi</td><td><i>Sep 2023 – Dec 2023</i></td></tr>
+</table>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<br>
 
-**Data & Visualization**
+## Toolbox
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+<p align="left">
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
-**Machine Learning & AI**
+<br>
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat-square)
-![SHAP](https://img.shields.io/badge/Explainable_AI-SHAP-6C63FF?style=flat-square)
-![GenAI](https://img.shields.io/badge/GenAI-412991?style=flat-square&logo=openai&logoColor=white)
+## Projects worth a look
 
-**Cloud, DevOps & Tools**
+| | |
+|---|---|
+| 🎓 **[CourSelect](https://github.com/yaminisrijakoulury)** | Full-stack AI academic advising platform — vector search on CockroachDB, 5-tier agentic memory, 4-tier LLM fallback, deployed on AWS EC2 |
+| 📊 **HRA UI Usage Analytics** | Parsed 120K+ CloudFront log records (665MB) on AWS EC2 to surface high-demand Knowledge Graph resources through an interactive dashboard |
+| 🏏 **The Untold Stories of IPL** | ML analysis linking competitive win % to brand value — SHAP for explainability, NLP for narrative, Power BI + Tableau visualizations |
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![CockroachDB](https://img.shields.io/badge/CockroachDB-6933FF?style=flat-square&logo=cockroachlabs&logoColor=white)
+<br>
 
----
+## Education
 
-### 💼 Experience
+**M.S. in Data Science**, Indiana University Bloomington — GPA 3.57/4 · 2024–2026
+**B.Tech. in Computer Science**, Manipal Academy of Higher Education, Dubai — GPA 8.4/10 · 2019–2023
 
-| Role | Company | Highlights |
-|---|---|---|
-| **Data Engineer & Analyst** | Heartland Community Network | Improved downstream reporting accuracy **30%**; built canonical metric dictionary eliminating weekly manual reconciliation across 3 platforms; deployed real-time Power BI dashboards with custom DAX measures |
-| **Data Engineer Intern** | Ikabit Inc. | Ensured **100% data integrity** and accelerated backend retrieval **25%** via a Python UDP pipeline and Dockerized/AWS ETL workflows; unified 50+ HTML/CSS/JS templates into a PyQt5 Data Management Console |
-| **Data Analytics Intern** | Emirates Steel Arkan | Improved data precision **20%** for a seamless ERP upgrade; cut processing time **25%** by integrating cloud platforms with SAP APIs |
-| **Data Science Research Intern** | New York University Abu Dhabi | Cut manual data processing effort **40%** by building automated scraping & visualization pipelines in R and Python |
+📄 Microsoft Certified: Power BI Data Analyst Associate
 
----
+<br>
 
-### 🚀 Featured Projects
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:6C63FF&height=100&section=footer" width="100%"/>
+</p>
 
-| Project | Stack | Description |
-|---|---|---|
-| **[CourSelect](https://github.com/yaminisrijakoulury)** | Python, AWS, CockroachDB, Agentic Workflows | Full-stack AI academic advising platform — sub-3-second semantic search across 8,983 courses, 4-tier LLM fallback (Gemini → Ollama → Mistral), 5-tier agentic memory system on CockroachDB Serverless |
-| **HRA UI Usage Analytics** | Python, Pandas, Plotly, AWS | Scalable analytics pipeline parsing 120K+ CloudFront log records (665MB) on EC2; interactive dashboard surfacing high-demand Knowledge Graph resources |
-| **The Untold Stories of IPL** | Python, Power BI, Tableau | ML-driven analysis linking win percentage to brand value using SHAP, NLP, and ensemble models (SVM, Random Forest) |
-
----
-
-### 🎓 Education
-
-**M.S. in Data Science** — Indiana University Bloomington (2024 – 2026)
-**B.Tech. in Computer Science** — Manipal Academy of Higher Education, Dubai (2019 – 2023)
-
-**Certifications:** Microsoft Certified: Power BI Data Analyst Associate
-
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaminisrijakoulury&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaminisrijakoulury&layout=compact&hide_border=true)
-
-</div>
