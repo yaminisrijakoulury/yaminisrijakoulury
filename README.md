@@ -53,7 +53,7 @@
 
 ## 💼 Experience
 
-**Data Engineer & Analyst** — Heartland Community Network *(Jun 2026 – Present)*
+**Data Engineer** — Heartland Community Network *(Jun 2026 – Present)*
 Built a canonical metric dictionary eliminating weekly manual reconciliation across 3 reporting platforms; improved reporting accuracy 30%; deployed real-time Power BI dashboards with custom DAX measures.
 
 **Data Engineer Intern** — Ikabit Inc. *(Jun 2025 – Aug 2025)*
