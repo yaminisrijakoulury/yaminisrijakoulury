@@ -1,6 +1,6 @@
 # Hi, I'm Yamini Srija Koulury 👋
 
-### Data Engineer & Analyst | Python · SQL · AWS · Docker | MS Data Science @ Indiana University
+### Data Engineer & Analyst | Python · SQL · AWS · Docker | MS Data Science Graduate @ Indiana University
 
 <p align="left">
 <a href="https://www.yaminisrijakoulury.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
