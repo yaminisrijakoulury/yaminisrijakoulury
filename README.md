@@ -4,16 +4,16 @@
 
 <p align="left">
 <a href="https://www.yaminisrijakoulury.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/srija06"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:yaminisrija16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/srija06"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:yaminisrija16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Pursuing an **M.S. in Data Science** at Indiana University Bloomington (GPA 3.57/4)
-- 💼 Currently working as a **Data Engineer** at Heartland Community Network
+- 🎓 **M.S. in Data Science** graduate from Indiana University Bloomington (GPA 3.57/4)
+- 💼 Currently working as a **Senior Consultant (Data)** at Heartland Community Network
 - 🔧 I build **real-time data pipelines**, **interactive BI dashboards**, and **agentic AI applications**
 - 📈 Improved downstream reporting accuracy by **30%** and accelerated backend retrieval by **25%** through automated ETL and validation pipelines
 - 🌱 Currently exploring RAG architectures, LLM fallback systems, and vector search
@@ -53,11 +53,17 @@
 
 ## 💼 Experience
 
-**Data Engineer** — Heartland Community Network *(Jun 2026 – Present)*
+**Senior Consultant (Data)** — Heartland Community Network *(Jun 2026 – Present)*
 Built a canonical metric dictionary eliminating weekly manual reconciliation across 3 reporting platforms; improved reporting accuracy 30%; deployed real-time Power BI dashboards with custom DAX measures.
 
-**Data Engineer Intern** — Ikabit Inc. *(Jun 2025 – Aug 2025)*
+**Teaching Assistant** — Indiana University Bloomington *(Jan 2026 – May 2026)*
+TA for *Social & Ethical Impacts of Big Data*.
+
+**Software Engineer (Data)** — Ikabit Inc. *(Jun 2025 – Aug 2025)*
 Engineered a Python UDP pipeline and Dockerized ETL workflows on AWS, ensuring 100% data integrity and accelerating backend retrieval by 25%.
+
+**Data Engineer** — 3rdEyeLabs.io *(Dec 2023 – Feb 2024)*
+Worked on C++, firmware, and 3D printing infrastructure in Abu Dhabi.
 
 **Data Analytics Intern** — Emirates Steel Arkan *(Mar 2024 – Jul 2024)*
 Improved data precision 20% for an ERP upgrade; reduced processing time 25% by integrating cloud platforms with SAP APIs.
@@ -69,17 +75,35 @@ Cut manual data processing effort 40% by building automated scraping and visuali
 
 ## 🚀 Featured Projects
 
-### [CourSelect — AI Academic Advising Platform](https://github.com/yaminisrijakoulury)
-`Python` `AWS` `CockroachDB` `Agentic Workflows`
-Full-stack platform with sub-3-second semantic search across 8,983 courses, a 4-tier LLM fallback (Gemini → Ollama → Mistral), and a 5-tier agentic memory system on CockroachDB Serverless, deployed on AWS EC2.
+> Full write-ups and links: **[yaminisrijakoulury.com](https://www.yaminisrijakoulury.com/)**. Repositories hosted on Indiana University's internal GitHub may require IU login.
 
-### HRA UI Usage Analytics
-`Python` `Pandas` `Plotly` `AWS`
+### [CourSelect — AI Academic Advising Platform](https://www.yaminisrijakoulury.com/)
+`Python` `AWS` `CockroachDB` `Agentic Workflows`
+Full-stack platform with sub-3-second semantic search across 8,983 courses, a multi-tier LLM fallback (Gemini → Ollama → Mistral), and an agentic memory system on CockroachDB Serverless, deployed on AWS EC2.
+
+### [Analyzing & Visualizing HRA UI Usage](https://github.iu.edu/ykoulury/ykoulury-Analyzing-and-Visualizing-Human-Reference-Atlas-HRA-UI-Usage)
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `AWS`
 Scalable pipeline processing 120K+ CloudFront log records (665MB) on EC2, powering an interactive dashboard that surfaces high-demand Knowledge Graph resources.
 
-### The Untold Stories of IPL — ML & Visualization
+### [Safer Routes via Accident Analysis](https://github.iu.edu/ykoulury/InfoViz_ykoulury)
+`Python` `DBSCAN` `OpenStreetMap`
+Spatial analysis of 7.7M US accident records using DBSCAN clustering to support safety-aware routing.
+
+### [IPL — Beyond the Numbers](https://github.iu.edu/ykoulury/Advance-ML-and-Visualizations)
 `Python` `Power BI` `Tableau`
-Modeled the link between win percentage and brand value using SHAP for explainability, NLP for text analysis, and ensemble models (SVM, Random Forest).
+Data storytelling and advanced visualizations exploring Indian Premier League data, including the link between win percentage and brand value.
+
+### [Alzheimer's Diagnosis Modeling](https://github.com/yaminisrijakoulury/Alzheimer-s-Disease-Project-Using-Machine-Learning-Data-Mining/blob/main/Final%20Report-%20Data%20Mining.pdf)
+`Python` `XGBoost` `SVM` `SHAP`
+Ensemble models with SHAP explainability reaching 93% accuracy with clinical validation.
+
+### [Personalized Medical Recommendation System](https://github.com/yaminisrijakoulury/Personalized-Medical-Recommendation-System-with-Machine-Learning/blob/main/Medicine%20Recommendation%20System.ipynb)
+`Python` `NLP` `Docker` `AWS EC2` `App Runner`
+NLP-powered recommendation service deployed as a Dockerized cloud service on AWS.
+
+### [AI-Based Natural Disaster Analysis](https://www.yaminisrijakoulury.com/)
+`Python` `IBM Watson`
+Disaster prediction models built with IBM Watson during an IBM externship.
 
 ---
 
@@ -90,7 +114,7 @@ Modeled the link between win percentage and brand value using SHAP for explainab
 | M.S. in Data Science (GPA 3.57/4) | Indiana University Bloomington | Aug 2024 – May 2026 |
 | B.Tech. in Computer Science (GPA 8.4/10) | Manipal Academy of Higher Education, Dubai | Aug 2019 – Jun 2023 |
 
-**Certifications:** Microsoft Certified: Power BI Data Analyst Associate
+**Certifications & Awards:** Microsoft Certified: Power BI Data Analyst Associate (PL-300) · Best Paper Award, 7th International Student Research Colloquium on AEIT (May 2022)
 
 ---
 
@@ -106,7 +130,7 @@ Modeled the link between win percentage and brand value using SHAP for explainab
 ## 📫 Let's Connect
 
 <p align="left">
-<a href="https://www.linkedin.com/in/srija06"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/srija06"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.yaminisrijakoulury.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="mailto:yaminisrija16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
