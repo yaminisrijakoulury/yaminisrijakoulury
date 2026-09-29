@@ -10,18 +10,18 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 **M.S. in Data Science** graduate from Indiana University Bloomington (GPA 3.57/4)
-- 💼 Currently working as a **Senior Consultant (Data)** at Heartland Community Network
-- 🔧 I build **real-time data pipelines**, **interactive BI dashboards**, and **agentic AI applications**
-- 📈 Improved downstream reporting accuracy by **30%** and accelerated backend retrieval by **25%** through automated ETL and validation pipelines
-- 🌱 Currently exploring RAG architectures, LLM fallback systems, and vector search
-- 📫 Reach me at **yaminisrija16@gmail.com**
+-  **M.S. in Data Science** graduate from Indiana University Bloomington (GPA 3.57/4)
+-  Currently working as a **Senior Consultant (Data)** at Heartland Community Network
+-  I build **real-time data pipelines**, **interactive BI dashboards**, and **agentic AI applications**
+-  Improved downstream reporting accuracy by **30%** and accelerated backend retrieval by **25%** through automated ETL and validation pipelines
+-  Currently exploring RAG architectures, LLM fallback systems, and vector search
+-  Reach me at **yaminisrija16@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -51,19 +51,16 @@
 
 ---
 
-## 💼 Experience
+##  Experience
 
-**Senior Consultant (Data)** — Heartland Community Network *(Jun 2026 – Present)*
+**Data Engineer (Senior Consultant)** — Heartland Community Network *(Jun 2026 – Present)*
 Built a canonical metric dictionary eliminating weekly manual reconciliation across 3 reporting platforms; improved reporting accuracy 30%; deployed real-time Power BI dashboards with custom DAX measures.
 
 **Teaching Assistant** — Indiana University Bloomington *(Jan 2026 – May 2026)*
 TA for *Social & Ethical Impacts of Big Data*.
 
-**Software Engineer (Data)** — Ikabit Inc. *(Jun 2025 – Aug 2025)*
+**Data Engineer** — Ikabit Inc. *(Jun 2025 – Aug 2025)*
 Engineered a Python UDP pipeline and Dockerized ETL workflows on AWS, ensuring 100% data integrity and accelerating backend retrieval by 25%.
-
-**Data Engineer** — 3rdEyeLabs.io *(Dec 2023 – Feb 2024)*
-Worked on C++, firmware, and 3D printing infrastructure in Abu Dhabi.
 
 **Data Analytics Intern** — Emirates Steel Arkan *(Mar 2024 – Jul 2024)*
 Improved data precision 20% for an ERP upgrade; reduced processing time 25% by integrating cloud platforms with SAP APIs.
@@ -73,7 +70,7 @@ Cut manual data processing effort 40% by building automated scraping and visuali
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 > Full write-ups and links: **[yaminisrijakoulury.com](https://www.yaminisrijakoulury.com/)**. Repositories hosted on Indiana University's internal GitHub may require IU login.
 
@@ -107,27 +104,18 @@ Disaster prediction models built with IBM Watson during an IBM externship.
 
 ---
 
-## 🎓 Education
+##  Education
 
 | Degree | Institution | Duration |
 |---|---|---|
 | M.S. in Data Science (GPA 3.57/4) | Indiana University Bloomington | Aug 2024 – May 2026 |
 | B.Tech. in Computer Science (GPA 8.4/10) | Manipal Academy of Higher Education, Dubai | Aug 2019 – Jun 2023 |
 
+
 **Certifications & Awards:** Microsoft Certified: Power BI Data Analyst Associate (PL-300) · Best Paper Award, 7th International Student Research Colloquium on AEIT (May 2022)
 
----
 
-## 📊 GitHub Stats
-
-<p align="left">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yaminisrijakoulury&show_icons=true&theme=default&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaminisrijakoulury&layout=compact&hide_border=true" />
-</p>
-
----
-
-## 📫 Let's Connect
+##  Let's Connect
 
 <p align="left">
 <a href="https://linkedin.com/in/srija06"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
