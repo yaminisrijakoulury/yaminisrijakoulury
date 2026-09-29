@@ -12,7 +12,7 @@
 
 ##  About Me
 
--  **M.S. in Data Science** graduate from Indiana University Bloomington (GPA 3.57/4)
+-  **M.S. in Data Science** graduate from Indiana University Bloomington 
 -  Currently working as a **Data Engineer** at Heartland Community Network
 -  I build **real-time data pipelines**, **interactive BI dashboards**, and **agentic AI applications**
 -  Improved downstream reporting accuracy by **30%** and accelerated backend retrieval by **25%** through automated ETL and validation pipelines
